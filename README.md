@@ -1,5 +1,9 @@
 # Graduation-project-SAMS
-Demo
+
+The project aim to create an effective mobile application using Flutter that will be used to manage attendance in university smartly instead of traditional way ,by take attendance using biometric fingerprint and face recognition and track the location of students.
+Firebase ML model.
+MobileFaceNet model.
+<h1> Demo </h1>
 
 https://udksa-my.sharepoint.com/:v:/g/personal/2180001227_iau_edu_sa/EaMMOFJoqipBlDAmHeXkyhEB4PRS2lT2s7yoidCEDsBQnA?e=3J906j
 ![Image333](https://user-images.githubusercontent.com/83551785/190010723-d209f229-bba3-400f-a0c9-8e929729729c.jpeg)
