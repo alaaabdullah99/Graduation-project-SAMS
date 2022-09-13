@@ -1,5 +1,5 @@
 # Graduation-project-SAMS
-![‏‏Image - نسخة (3)](https://user-images.githubusercontent.com/83551785/190010740-45b703c8-f277-4d28-9355-d51e1cfe9a7c.jpeg =250x250)
+![‏‏Image - نسخة (3)](https://user-images.githubusercontent.com/83551785/190010740-45b703c8-f277-4d28-9355-d51e1cfe9a7c.jpeg {width=40px height=400px})
 The project aim to create an effective mobile application using Flutter that will be used to manage attendance in university smartly instead of traditional way ,by take attendance using biometric fingerprint and face recognition and track the location of students.
 Firebase ML model.
 MobileFaceNet model.
